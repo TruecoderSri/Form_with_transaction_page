@@ -1,0 +1,21 @@
+body{
+    background-color: #ffd7c6;
+}
+.billing
+{
+  margin-top:100px;
+  text-align:right;
+  margin-right: 30px;
+  
+}
+.pay
+{
+    border-radius: 5px;
+  transition:all 0.2s ease-in-out;
+  font-size: medium;
+  padding: 10px;
+  background-color: rgb(249, 249, 244);
+  font-size: 18px;
+  border-color: rgb(1, 110, 110);
+  
+}
